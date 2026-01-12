@@ -7,5 +7,4 @@ document.addEventListener("DOMContentLoaded",()=>{
     additionalFunction(j,timer)
   
    envoiProduit()
-   console.log("developer")
 })
